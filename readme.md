@@ -1,59 +1,44 @@
 <div align="center">
 
-# 👨‍💻 Full-Stack Developer
+# Full-Stack Mobile & Web Developer
 
-Building scalable web & mobile applications with modern technologies.
+<hr/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=React.js+Developer;Node.js+Backend+Engineer;Next.js+%26+TypeScript+Developer;Mobile+%26+Web+App+Builder" />
+  <img src="https://skillicons.dev/icons?i=react,vue,nextjs,angular,nodejs,express,mongodb,typescript,javascript,python,php,firebase,androidstudio,flutter,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Vue%20%7C%20Angular-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Backend-Node%20%7C%20Express-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Database-MongoDB%20%7C%20SQL-brightgreen?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-# 🚀 Tech Stack
+# 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,ts,js,mongodb,firebase,flutter,git,github,vscode" />
-</p>
-
----
-
-# 🌟 Featured Projects
-
-- 🛒 E-Commerce Platform  
-- 💬 Real-Time Chat Application  
-- 📱 Mobile Productivity App  
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-
-</div>
+```js
+const developer = {
+    name: "Your Name",
+    role: "Full Stack Web Developer",
+    skills: [
+        "React.js",
+        "Next.js",
+        "Vue.js",
+        "Angular",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "PHP",
+        "SQL",
+        "Android Development"
+    ],
+    passion: "Building scalable modern web & mobile applications"
+};
