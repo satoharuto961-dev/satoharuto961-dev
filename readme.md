@@ -1,111 +1,129 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Full-Stack%20Developer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Full-Stack%20Developer&fontColor=ffffff&fontSize=45&fontAlignY=40&animation=fadeIn"/>
 
-# 👨‍💻 Full-Stack Mobile & Web Developer
+# Hi 👋, I'm YOUR_NAME
 
-### Building modern, scalable, and high-performance applications
+### Full-Stack Web & Mobile Application Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=React.js+Developer;Node.js+Backend+Engineer;Next.js+%26+TypeScript+Enthusiast;MongoDB+%7C+SQL+Database+Designer;Mobile+%26+Web+Application+Developer" />
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=0A66C2"/>
+  </a>
+
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&style=for-the-badge&color=blue"/>
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 💫 Professional Summary
+
+Experienced Full-Stack Developer specializing in modern web and mobile application development. Skilled in designing scalable frontend architectures, developing secure backend APIs, and building high-performance full-stack systems using modern JavaScript technologies.
+
+Passionate about clean code, performance optimization, responsive UI/UX, and scalable application architecture.
+
+---
+
+# 🚀 Core Technologies
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,nodejs,express,mongodb,mysql,js,ts,python,php,androidstudio,git,github,vscode,firebase" />
+
+</div>
+
+---
+
+# 🛠 Technical Expertise
+
+<table>
+<tr>
+<td width="50%">
+
+### Frontend Development
+- React.js
+- Next.js
+- Vue.js
+- Angular
+- TypeScript
+- JavaScript
+- Responsive UI Design
+
+</td>
+
+<td width="50%">
+
+### Backend Development
+- Node.js
+- Express.js
+- REST API Development
+- Authentication & Authorization
+- Server Architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### Database Management
+- MongoDB
+- SQL
+- Database Design
+- Query Optimization
+
+</td>
+
+<td width="50%">
+
+### Mobile Development
+- Android Application Development
+- Firebase Integration
+- Cross-Platform Concepts
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ Development Philosophy
 
 ```typescript
-const developer = {
-    role: "Full-Stack Developer",
-    
-    frontend: [
-        "React.js",
-        "Next.js",
-        "Vue.js",
-        "Angular",
-        "TypeScript",
-        "JavaScript"
+const engineer = {
+    codeStyle: "Clean & Maintainable",
+    architecture: "Scalable & Modular",
+    focus: [
+        "Performance",
+        "Security",
+        "User Experience",
+        "Responsive Design"
     ],
-
-    backend: [
-        "Node.js",
-        "Express.js",
-        "Python",
-        "PHP"
-    ],
-
-    database: [
-        "MongoDB",
-        "SQL"
-    ],
-
-    mobile: [
-        "Android Development"
-    ],
-
-    currentFocus: "Building scalable full-stack applications",
-    
-    passion: "Creating clean UI/UX and powerful backend systems"
+    mindset: "Continuous Learning & Problem Solving"
 };
 ```
 
 ---
 
-# 🛠️ Tech Stack
+# 📊 GitHub Statistics
 
 <div align="center">
 
-## Frontend Development
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,js,ts,html,css,tailwind" />
-
----
-
-## Backend Development
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php" />
-
----
-
-## Database & Cloud
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" />
-
----
-
-## Mobile Development
-
-<img src="https://skillicons.dev/icons?i=androidstudio,flutter" />
-
----
-
-## Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Analytics
+# 🔥 Contribution Graph
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🔥 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
 
 </div>
 
@@ -115,83 +133,51 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10&margin-h=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
 
 </div>
 
 ---
 
-# 💻 Development Skills
-
-<div align="center">
-
-| Category | Technologies |
-|----------|--------------|
-| 🎨 Frontend | React.js, Next.js, Vue.js, Angular |
-| ⚙️ Backend | Node.js, Express.js, PHP, Python |
-| 🗄️ Database | MongoDB, SQL |
-| 📱 Mobile | Android Development |
-| 🔥 Languages | JavaScript, TypeScript, Python, PHP |
-| 🛠️ Tools | Git, GitHub, VS Code, Postman |
-
-</div>
-
----
-
-# 🌟 Professional Highlights
-
-✅ Full-Stack Web Application Development  
-✅ REST API Development & Integration  
-✅ Responsive UI/UX Design  
-✅ Authentication & Security Systems  
-✅ Database Architecture & Optimization  
-✅ Cross-Platform Mobile Development  
-✅ Clean Code & Scalable Architecture  
-
----
-
-# 📫 Connect With Me
+# 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://github.com/YOUR_USERNAME">
-  <img src="https://skillicons.dev/icons?i=github" height="50"/>
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="55"/>
 </a>
 
 </div>
 
 ---
 
-# 👀 Profile Views
+# 💼 Current Focus
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</div>
-
----
-
-# 💡 Philosophy
-
-<div align="center">
-
-### “Code with logic. Build with creativity.”
-
-</div>
+- Building scalable full-stack applications
+- Creating responsive and optimized user interfaces
+- Developing secure RESTful APIs
+- Exploring modern web technologies & cloud solutions
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+### “Transforming ideas into scalable digital solutions.”
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
 
 </div>
