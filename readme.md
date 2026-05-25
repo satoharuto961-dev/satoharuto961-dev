@@ -59,16 +59,6 @@
 
 ---
 
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/YOUR_USERNAME">GitHub</a> •
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a> •
-<a href="mailto:YOUR_EMAIL@gmail.com">Email</a>
-
-</div>
-
 ---
 
 <div align="center">
